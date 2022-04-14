@@ -7,3 +7,6 @@ The bot is designed to provide results for the corresponding user requests. The 
 The main bot startup file is contained in the file - bot.py ,
 an example of data from search queries is - facts.txt , joke_facts.txt and proverb.txt,
 and also other files that are necessary to run the bot in the developer environment (the work was tested in PyCharm 2021.3.3).
+
+link bot:
+t.me/FactsAndProverb_BOT_bot
